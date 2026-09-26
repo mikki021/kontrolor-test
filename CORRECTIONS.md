@@ -45,3 +45,12 @@
 **APPROVE** (no corrections needed for Correct answers / legal fidelity).
 
 Nia may push this `CORRECTIONS.md` to GitHub for the record before any optional polish edits to the bank.
+
+---
+
+## Applied (2026-09-26) — user + Pia
+
+| Q | Change | Notes |
+|---|--------|-------|
+| Q51 | Correct option text → exactly `Одмах обавестити ЛИК` (removed `(према obuka-clanove)`) | Stem unchanged: `Кога обавестити кад БО удаљи посматрача — ЛИК или РИК?`. Authority: clanove slide 49. |
+
