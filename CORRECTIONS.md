@@ -54,3 +54,11 @@ Nia may push this `CORRECTIONS.md` to GitHub for the record before any optional 
 |---|--------|-------|
 | Q51 | Correct option text → exactly `Одмах обавестити ЛИК` (removed `(према obuka-clanove)`) | Stem unchanged: `Кога обавестити кад БО удаљи посматрача — ЛИК или РИК?`. Authority: clanove slide 49. |
 
+---
+
+## Applied (2026-09-26) — drop Q51 duplicate
+
+| Q | Change | Notes |
+|---|--------|-------|
+| Q51 | **Removed** from bank (dedupe with Q47) | Keep **Q47** (`Неопходно је о томе одмах обавестити ЛИК`, clanove s49). Bank size **73**; draw still **42** via `bank.total`. Earlier Q51 wording polish superseded by this drop. |
+
